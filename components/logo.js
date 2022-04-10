@@ -26,7 +26,7 @@ const LogoBox = styled.span`
 `
 
 const Logo = () => {
-  const tridentUaImg = `/../public/images/trident-ua${useColorModeValue(
+  const tridentUaImg = `/public/images/trident-ua${useColorModeValue(
     '-yellow',
     '-blue'
   )}.png`
